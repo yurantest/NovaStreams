@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Основная тема: сразу тёмный фон окна (без чёрного кадра при старте). -->
+    <style name="Theme.NovaStreams" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_window</item>
+        <item name="android:statusBarColor">@color/nova_background</item>
+        <item name="android:navigationBarColor">@color/nova_background</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:colorBackground">@color/nova_background</item>
+        <item name="android:windowDisablePreview">false</item>
+    </style>
+</resources>
