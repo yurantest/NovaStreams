@@ -52,13 +52,13 @@
 
 ---
 # Скриншоты
-# Andoid 
+# Android 
 <img width="1080" height="2400" alt="photo_2026-10-18_14-05-00" src="https://github.com/user-attachments/assets/3ba74163-87b6-46ef-b107-1c0942aa9e87" />
 <img width="1080" height="2400" alt="photo_2026-10-18_14-05-32" src="https://github.com/user-attachments/assets/15184817-b5eb-442a-89b2-0c39037de416" />
 
 
 ---
-# Andoid TV
+# Android TV
 <img width="1920" height="1080" alt="Screenshot_1792064603585" src="https://github.com/user-attachments/assets/d634520f-3920-4100-b850-27fac7915c8e" />
 <img width="1920" height="1080" alt="Screenshot_1792064628355" src="https://github.com/user-attachments/assets/ff40e717-31a0-415d-ab25-3c298fa61693" />
 <img width="1920" height="1080" alt="Screenshot_1792064694127" src="https://github.com/user-attachments/assets/50981a1e-ca23-4f69-9e98-57ad064ad9ee" />
